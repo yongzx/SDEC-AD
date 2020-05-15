@@ -1,5 +1,5 @@
 bcubed==1.5
-nltk==3.4.3
+nltk==3.4.5
 matplotlib==3.2.1
 numpy==1.18.2
 Keras==2.2.5
