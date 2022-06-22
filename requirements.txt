@@ -1,6 +1,6 @@
 bcubed==1.5
 nltk==3.4.5
 matplotlib==3.2.1
-numpy==1.18.2
+numpy==1.22.0
 Keras==2.2.5
 scikit_learn==0.23.0
